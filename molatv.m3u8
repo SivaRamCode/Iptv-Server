@@ -6,3 +6,5 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6840_720p/index.
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6840_480p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6840_360p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=426x240
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6840_240p/index.m3u8
