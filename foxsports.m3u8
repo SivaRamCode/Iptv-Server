@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=450000,CODECS="mp4a.40.2,avc1.42001e",RESOLUTION=426x240
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist_b450000.m3u8?token=
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,CODECS="mp4a.40.2,avc1.4d001f",RESOLUTION=854x480
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist_b1200000.m3u8?token=
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,CODECS="mp4a.40.2,avc1.64002a",RESOLUTION=1024x576
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist_b2500000.m3u8?token=

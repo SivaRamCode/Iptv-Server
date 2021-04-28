@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=899542,CODECS="avc1.66.31,mp4a.40.2",RESOLUTION=854x480
+http://wowza60.indostreamserver.com:1935/tv9/live/chunklist_w1030440718.m3u8
